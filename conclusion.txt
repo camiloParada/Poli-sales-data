@@ -1,0 +1,12 @@
+1. Lo aprendido durante el desarrollo del proyecto.
+
+Durante el desarrollo del proyecto, aprendí a trabajar con archivos en Java para leer y escribir datos, así como a manejar estructuras de datos como listas y mapas para procesar la información obtenida. También practiqué la generación de números aleatorios y la manipulación de cadenas de texto para formatear y analizar datos.
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y
+practicados durante el desarrollo del proyecto.
+
+Las destrezas y conocimientos adquiridos durante el desarrollo del proyecto tienen diversas aplicaciones en mi vida profesional. Por ejemplo, el manejo de archivos y datos es fundamental en el desarrollo de aplicaciones que necesitan interactuar con sistemas de almacenamiento externo. Además, la capacidad para resolver problemas y optimizar el rendimiento del código es valiosa en cualquier entorno de desarrollo de software.
+
+3. Las dificultades presentadas durante el desarrollo del proyecto.
+
+Durante el desarrollo del proyecto, algunas dificultades presentadas incluyeron la gestión de excepciones y errores, especialmente al trabajar con archivos y realizar operaciones de entrada y salida. También fue un desafío asegurarse de que los datos de entrada estuvieran formateados correctamente y validarlos adecuadamente para evitar errores de procesamiento. Además, la implementación de la lógica de negocio para generar los informes requeridos implicó una planificación cuidadosa y pruebas exhaustivas para garantizar su precisión y eficacia.
